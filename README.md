@@ -1,3 +1,8 @@
+-=(TIAMC1_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p & Sound.
+
+___
 ## Introduction
 
 This is the TIA-MC1 arcade from USSR for the [MiSTer board](https://github.com/MiSTer-devel).
